@@ -6,6 +6,9 @@ export default function JokesIndexRoute() {
           I was wondering why the frisbee was getting bigger,
           then it hit me.
         </p>
+        <p>
+            this one is the default when /jokes is rendered
+        </p>
       </div>
     );
   }
